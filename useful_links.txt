@@ -1,0 +1,17 @@
+https://learnopencv.com/image-classification-pretrained-imagenet-models-tensorflow-keras/
+
+https://www.learndatasci.com/tutorials/hands-on-transfer-learning-keras/
+
+https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
+
+https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras
+
+
+https://stackoverflow.com/questions/21979970/how-to-use-word2vec-to-calculate-the-similarity-distance-by-giving-2-words
+https://radimrehurek.com/gensim/models/word2vec.html
+https://kavita-ganesan.com/easily-access-pre-trained-word-embeddings-with-gensim/#.ZD6OoHbP2M8
+
+
+Add image augmentation.
+
+Спросить Андреса
